@@ -1,16 +1,43 @@
-## Hi there 👋
+# Your Name - Gouri M
+=====================================
 
-<!--
-**Gouri-12/Gouri-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+As an automation engineer with 1 years of experience, I specialize in designing and implementing automation solutions to streamline processes and improve efficiency. My expertise includes [list your skills, e.g., Python, Selenium, Docker].
+
+
+## Portfolio
+------------
+
+
+### Project 1: [Project Name]
+#### [Project Description]
+#### [Project Technologies: e.g., Python, Selenium]
+#### [Link to Project Repository](https://github.com/your-username/project-repo-name)
+
+
+### Project 2: [Project Name]
+#### [Project Description]
+#### [Project Technologies: e.g., Python, Selenium]
+#### [Link to Project Repository](https://github.com/your-username/project-repo-name)
+
+
+## Skills
+--------
+
+
+* Programming languages: [list programming languages, e.g., Python, Java]
+* Automation frameworks: [list automation frameworks, e.g., Selenium, Appium]
+* Tools: [list tools, e.g., Docker, Jenkins]
+
+
+## Contact
+------
+
+
+* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+* GitHub: [your-github-profile](https://github.com/your-username)
