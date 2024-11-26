@@ -5,41 +5,32 @@ A passionate Automation Engineer with a strong foundation in software testing an
 ---
 
 
-## Projects
+##  Quality Assurance Project
 
 ### 1. **ICTAK Intership Portal Automation Testing**
 
-- **Repository Link**: [ICTAK Intership Portal Automation Framework](https://github.com/SubinSB007/GroupOne.git)
+- [ICTAK Intership Portal Automation Framework](https://github.com/SubinSB007/GroupOne.git)
 
+## Application Development Projects
 
-### 2.  Task App - Office Management Tool 
+### 1.  Task App - Office Management Tool 
 
--  **Repository Link**: [Task App ](https://github.com/originimpact/task_app_flutter.git)
+-  [Task App ](https://github.com/originimpact/task_app_flutter.git)
 
-  ### 3. MRI Enhancement Techniques
+ ### 2. MRI Enhancement Techniques
   
-  
-## 🛠️ Skills
-- **Programming Languages**: Java, Python, 
-- **Automation Tools**: Selenium WebDriver, TestNG, Maven, JUnit
-- **Frameworks**: BDD (Behavior-Driven Development), POM (Page Object Model)
+ -  [MRI Enhancement Techniques](https://github.com/Gouri-12/MRI-enhancement.git)
+ ---
+##  Skills
+- **Languages**: Java, Python, SQL, C, HTML, CSS 
+- **Automation Tools**: Selenium WebDriver, TestNG, Cucumber
 - **Performance Testing**: JMeter
 - **Version Control**: Git, GitHub
-- **Other Tools**: Jenkins, Postman, Docker
-
+- **Other Tools**: Postman, Maven, Jira
 ---
 
-## 🏆 Certifications
-- **Diploma in Computer Applications**
-- **Software Testing Course - ICT Academy**
+##  Certifications
+- **IBM Cybersecurity**
+- **IBM DataScience**
 
----
-
-## 🌐 Let's Connect
-- **Email**: [gourimca123@gmail.com](mailto:gourimca123@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Portfolio**: [Your Portfolio Website](#)
-
----
-
-Feel free to explore my repositories to see my work in action! 🚀
+  
