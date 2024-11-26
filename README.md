@@ -24,13 +24,8 @@ A passionate Automation Engineer with a strong foundation in software testing an
 
 - **Repository Link**: [ICTAK Intership Portal Automation Framework](https://github.com/SubinSB007/OrangeHrmProject.git)
 
-### 2. **E-Commerce Website Performance Testing**
-- **Description**: Conducted load and stress testing on an e-commerce application using JMeter.
-- **Results**: Improved application performance by identifying bottlenecks.
-- **Technologies Used**: JMeter, Java
-- **[Repository Link](#)**
 
-### 3. **Flutter Application Development**
+### 2. **Flutter Application Development**
 - **Description**: Built and tested a Flutter-based mobile application during my internship at Origin Impact.
 - **Features**: Added custom widgets and automated key test cases.
 - **Technologies Used**: Flutter, Dart, Test Automation
