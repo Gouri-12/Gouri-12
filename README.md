@@ -13,22 +13,11 @@ A passionate Automation Engineer with a strong foundation in software testing an
 
 
 ### 2.  Task App - Office Management Tool 
-## Project Overview
-The **Task App** is an office management tool designed to streamline task allocation, tracking, and completion within teams. This cross-platform application was built using **Flutter** for both the frontend and backend, leveraging **Firebase** for real-time data management and authentication. The app was developed and tested using **Android Studio**, providing an intuitive and efficient user experience for managing office workflows.
-##  Tools & Technologies
-- **Frontend & Backend**: Flutter  
-- **Database**: Firebase (Real-time Database & Firestore)  
-- **Development Environment**: Android Studio  
-- **Platform**: Android & iOS
-  ## Key Features
-- **Task Management**: Create, assign, and track tasks in real-time.  
-- **User Authentication**: Secure login and signup using Firebase Authentication.  
-- **Notifications**: Send real-time updates and reminders.  
-- **Progress Tracking**: Monitor task status and team performance.  
-- **Cross-Platform**: Seamlessly supports Android and iOS devices.
+
 -  **Repository Link**: [Task App ](https://github.com/originimpact/task_app_flutter.git)
 
   ### 3. MRI Enhancement Techniques
+  
   
 ## 🛠️ Skills
 - **Programming Languages**: Java, Python, 
