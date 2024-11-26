@@ -1,43 +1,64 @@
-# Your Name - Gouri M
-=====================================
+# Hi, I'm Gouri M  
+
+A passionate Automation Engineer with a strong foundation in software testing and development. My journey in tech has been driven by a curiosity to understand systems deeply and a commitment to delivering high-quality solutions. From automating complex workflows to ensuring seamless application performance, I thrive on tackling challenges with precision and creativity.
+
+---
 
 
-## About Me
-------------
+## Projects
 
+### 1. **ICTAK Intership Portal Automation Testing**
+##  Project Overview
+- This project focuses on automating the testing of the ICTAK Internship Portal, a platform designed for admins and mentors to manage internship-related tasks effectively. The automation suite was developed using Selenium WebDriver, TestNG, and Maven, structured around the Page Object Model (POM) design pattern. The framework ensures smooth and error-free operations, enhancing efficiency, reusability, and maintainability while providing comprehensive test coverage for critical workflows.
+- ## Tools & Technologies
+- **Programming Language**: Java  
+- **Automation Tools**: Selenium WebDriver, TestNG  
+- **Build Tool**: Maven  
+- **Design Pattern**: Page Object Model (POM)  
+##  Key Features
+- **Comprehensive Test Automation**: Automated critical workflows, including  login, Project Addition, New Mentor details addition and Reference Material addition.  
+- **Form Validation Tests**: Validated input fields to ensure accurate data handling.  
+- **POM Implementation**: Structured the framework using the Page Object Model for improved code modularity and reusability.  
+- **Assertion Integration**: Used TestNG for verifying functionality and generating detailed reports.  
+- **Scalable Framework**: Designed for easy integration of new test cases and components.
 
-As an automation engineer with 1 years of experience, I specialize in designing and implementing automation solutions to streamline processes and improve efficiency. My expertise includes [list your skills, e.g., Python, Selenium, Docker].
+- **Repository Link**: [ICTAK Intership Portal Automation Framework](https://github.com/SubinSB007/OrangeHrmProject.git)
 
+### 2. **E-Commerce Website Performance Testing**
+- **Description**: Conducted load and stress testing on an e-commerce application using JMeter.
+- **Results**: Improved application performance by identifying bottlenecks.
+- **Technologies Used**: JMeter, Java
+- **[Repository Link](#)**
 
-## Portfolio
-------------
+### 3. **Flutter Application Development**
+- **Description**: Built and tested a Flutter-based mobile application during my internship at Origin Impact.
+- **Features**: Added custom widgets and automated key test cases.
+- **Technologies Used**: Flutter, Dart, Test Automation
+- **[Repository Link](#)**
 
+---
 
-### Project 1: [Project Name]
-#### [Project Description]
-#### [Project Technologies: e.g., Python, Selenium]
-#### [Link to Project Repository](https://github.com/your-username/project-repo-name)
+## 🛠️ Skills
+- **Programming Languages**: Java, Python, 
+- **Automation Tools**: Selenium WebDriver, TestNG, Maven, JUnit
+- **Frameworks**: BDD (Behavior-Driven Development), POM (Page Object Model)
+- **Performance Testing**: JMeter
+- **Version Control**: Git, GitHub
+- **Other Tools**: Jenkins, Postman, Docker
 
+---
 
-### Project 2: [Project Name]
-#### [Project Description]
-#### [Project Technologies: e.g., Python, Selenium]
-#### [Link to Project Repository](https://github.com/your-username/project-repo-name)
+## 🏆 Certifications
+- **Diploma in Computer Applications**
+- **Software Testing Course - ICT Academy**
 
+---
 
-## Skills
---------
+## 🌐 Let's Connect
+- **Email**: [gourimca123@gmail.com](mailto:gourimca123@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **Portfolio**: [Your Portfolio Website](#)
 
+---
 
-* Programming languages: [list programming languages, e.g., Python, Java]
-* Automation frameworks: [list automation frameworks, e.g., Selenium, Appium]
-* Tools: [list tools, e.g., Docker, Jenkins]
-
-
-## Contact
-------
-
-
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-* GitHub: [your-github-profile](https://github.com/your-username)
+Feel free to explore my repositories to see my work in action! 🚀
