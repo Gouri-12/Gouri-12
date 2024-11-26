@@ -22,7 +22,7 @@ A passionate Automation Engineer with a strong foundation in software testing an
 - **Assertion Integration**: Used TestNG for verifying functionality and generating detailed reports.  
 - **Scalable Framework**: Designed for easy integration of new test cases and components.
 
-- **Repository Link**: [ICTAK Intership Portal Automation Framework]()
+- **Repository Link**: [ICTAK Intership Portal Automation Framework](https://github.com/SubinSB007/GroupOne.git)
 
 
 ### 2.  Task App - Office Management Tool 
